@@ -53,6 +53,11 @@
   font-style: normal;
 }
 
+.section__title:hover {
+  color: #f4d04e;
+  transition: 0.2s;
+}
+
 .section__text {
   color: #68778d;
   font-size: 16px;
