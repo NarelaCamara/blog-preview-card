@@ -31,19 +31,35 @@
   border: 0px;
   font-size: 14px;
   font-weight: bold;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
 }
 
 .section__fecha {
   font-size: 12px;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
 }
 
 .section__title {
   font-size: 24px;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800px;
+  font-style: normal;
 }
 
 .section__text {
   color: #68778d;
   font-size: 16px;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
 }
 
 .card__footer {
@@ -64,4 +80,8 @@
 .footer__name {
   font-size: 14px;
   font-weight: bold;
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500px;
+  font-style: normal;
 }
